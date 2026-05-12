@@ -70,6 +70,7 @@ redis-server
 sudo service postgresql start
 ```
 
+
 ---
 
 ## Database setup (PostgreSQL)
