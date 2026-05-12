@@ -6,6 +6,7 @@ Production-style **full-stack URL shortener** running locally with:
 - **DB**: PostgreSQL
 - **Cache**: Redis (read-through cache for redirects)
 - **Frontend**: React (Vite), TailwindCSS, Axios
+  
 
 ## CI & Docker
 
