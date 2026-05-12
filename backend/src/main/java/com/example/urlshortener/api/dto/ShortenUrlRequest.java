@@ -18,6 +18,10 @@ public class ShortenUrlRequest {
   )
   private String customAlias;
 
+
+
+
+
   public String getLongUrl() {
     return longUrl;
   }

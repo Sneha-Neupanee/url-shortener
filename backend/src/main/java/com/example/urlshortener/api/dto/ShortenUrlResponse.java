@@ -9,6 +9,7 @@ public class ShortenUrlResponse {
     this.shortUrl = shortUrl;
   }
 
+
   public String getShortUrl() {
     return shortUrl;
   }
