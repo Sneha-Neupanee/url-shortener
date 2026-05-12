@@ -42,6 +42,7 @@ Services:
 
 Stop:
 
+
 ```bash
 docker compose down
 ```
