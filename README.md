@@ -12,6 +12,7 @@ Production-style **full-stack URL shortener** running locally with:
 - **CI**: GitHub Actions workflow at `.github/workflows/ci.yml` (backend tests/build, frontend build, and Docker image builds on pushes to `main`)
 - **Docker**: `docker-compose.yml` runs **Postgres + Redis + Backend + Frontend** together
 
+
 Project structure:
 
 ```
