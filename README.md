@@ -1,4 +1,4 @@
-# URL Shortener System (Phase 1)
+# URL Shortener System 
 
 Production-style **full-stack URL shortener** running locally with:
 
